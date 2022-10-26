@@ -1,0 +1,28 @@
+id,codeID,name,price,date,amount ,Receiving,confirmation,Route,Receipt,payment,source,destination
+1,VNCT,computer,18764,10/03/21,67,Yes,Yes,A,NO,NO,Bangkok,Chiang Mai
+2,RSRR,case,6463,02/05/22,70,KO,No,B,YES,YES,Bangkok,Bangkok
+3,DJWK,Mainboard,13631,05/09/21,65,No,No,C,YES,YES,Chiang Mai,Chiang Mai
+4,LTMX,CPU,10406,04/03/21,19,No,No,D,NO,NO,Bangkok,Bangkok
+5,IRRB,CPUCooler,15633,06/09/22,67,No,Yes,F,YES,YES,Chiang Mai,Chiang Mai
+6,JLKC,GPU,11663,07/25/22,41,Yes,Yes,A,NO,NO,NAN,Chiang Mai
+7,OIUU,RAM,11039,08/15/22,19,Yes,Yes,B,YES,YES,Chiang Mai,Bangkok
+8,DRUV,Storage,1427,11/05/20,78,Yes,No,C,YES,YES,NAN,Bangkok
+9,RILP,SSD,3304,05/06/21,10,No,Yes,D,NO,NO,NAN,Chiang Mai
+10,GPUR,NVME,9960,04/25/20,57,Yes,No,F,YES,YES,Bangkok,Bangkok
+11,BYYW,HDD,18476,02/19/21,29,Yes,No,A,NO,NO,Bangkok,NAN
+12,JTQV,PSU,1045,01/13/22,38,Yes,Yes,B,YES,YES,NAN,Chiang Mai
+13,DMEN,Monitor,15744,04/05/21,75,No,No,C,YES,YES,Bangkok,Chiang Mai
+14,UQEF,OS,8849,06/27/21,36,Yes,No,D,NO,NO,NAN,Chiang Mai
+15,QSEB,Input,19706,05/28/22,61,No,Yes,F,YES,YES,Bangkok,NAN
+16,VUEE,RTX 1160,18715,02/20/20,75,No,No,A,NO,NO,Chiang Mai,Bangkok
+17,FTOQ,RTX 3060IT,6677,03/25/20,64,Yes,No,B,YES,YES,NAN,NAN
+18,OSCU,RX6500G,14529,06/02/22,14,Yes,No,A,NO,NO,Bangkok,NAN
+19,UQEF,GTX3090IT,13110,04/05/21,72,No,Yes,A,NO,NO,Bangkok,NAN
+20,FSEF,AMD6900XT,13110,06/27/21,72,Yes,Yes,A,NO,NO,Chiang Mai,Chiang Mai
+21,VUEE,GTX3080IT,11795,05/28/22,72,No,No,B,YES,YES,Bangkok,Bangkok
+22,FTOL,AMDRX6800XT,11317,02/20/20,72,No,No,C,YES,YES,Chiang Mai,Chiang Mai
+23,OSCU,RTX308012G,10839,03/25/20,72,KO,No,D,NO,NO,Bangkok,Bangkok
+24,INTEL,I31050k,1499,20/30/21,100,NO,NO,CompanyTruck,NUll,empty,Nan,Empty
+25,003,rtx300,2000,20/02/2022,30,KO,NO,CompanyTruck,NUll,empty,Nan,Empty
+y,,,,,,,,,,,,
+27,003,rx4090,2000,20/30/2033,20,NO,NO,CompanyTruck,NUll,empty,Nan,Empty
